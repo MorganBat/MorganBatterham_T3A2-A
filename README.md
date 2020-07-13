@@ -8,9 +8,9 @@
 
 ## User Stories
 
-- As a user, I want to track my workouts
+- As a user, I want to track my past workouts
 
-- As a user, I want a secure login so noone else can access my data
+- As a user, I want a secure login so no one else can access my data
 
 - As a user, I want the option to track my progress and improvements
 
@@ -20,7 +20,7 @@
 
 - As a user, I want an email reminder if I miss a workout
 
-- As a user, I want
+- As a user, I want to be able to add a new workout
 
 ## Wireframes
 
