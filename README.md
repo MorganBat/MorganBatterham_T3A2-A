@@ -24,4 +24,21 @@
 
 ## Wireframes
 
+### Wireframes
+![WireFrames](docs/WF1.png)
+### Landing Page
+![Landing Page](docs/WF2.png)
+### Login
+![Login](docs/WF3.png)
+### Register
+![Register](docs/WF4.png)
+### Profile
+![Profile](docs/WF5.png)
+### Past Workouts
+![Past Workouts](docs/WF6.png)
+### My Program
+![My Program](docs/WF7.png)
+### Add Workout
+![Add Workour](docs/WF7.png)
+
 ## Trello Board Screenshots
