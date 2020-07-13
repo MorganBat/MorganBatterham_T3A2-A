@@ -24,8 +24,8 @@
 
 ## Wireframes
 
-### Wireframes
-![WireFrames](docs/WF1.png)
+### Site Overview
+![Site Overview](docs/WF1.png)
 ### Landing Page
 ![Landing Page](docs/WF2.png)
 ### Login
