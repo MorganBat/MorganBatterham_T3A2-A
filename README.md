@@ -2,6 +2,14 @@
 
 ## Website Description
 
+### Purpose
+
+### Functionality/Features
+
+### Target Audience
+
+### Tech Stack
+
 ## Dataflow Diagram
 
 ## Application Architecture Diagram
@@ -42,3 +50,6 @@
 ![Add Workour](docs/WF7.png)
 
 ## Trello Board Screenshots
+
+![Trello](docs/TB1.png)
+![Trello](docs/TB2.png)
