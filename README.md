@@ -4,11 +4,13 @@
 
 ### Purpose
 
-This website is used to track workouts. There are currently no good websites for tracking workouts. This website will track progression and improvements, and allow a client's trainer to access the data to see how they are progressing. There is also the option for the website to help plan the rep and weight ranges for future workouts.
+This website is used to track workouts. There are currently no good websites for tracking workouts. This website will track progression and improvements. There is also the option for the website to automatically plan the rep and weight ranges for future workouts.
 
-For accountability, users will have the option to share their progress and results with their friends, and even create groups and challenges.
+For accountability, users will have the option to share their progress and results with their friends, and even create groups and challenges. Users can also give access to their trainers, who can track their client's progress and schedule and plan workouts.
 
 ### Functionality/Features
+
+
 
 ### Target Audience
 
