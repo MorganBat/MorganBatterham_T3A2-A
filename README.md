@@ -83,6 +83,11 @@ This website will be primarily built on the MERN stack:
 
 ## Trello Board Screenshots
 
+### Start of Day 1
 ![Trello](docs/TB1.png)
+
+### End of Day 1
 ![Trello](docs/TB2.png)
+
+### End of Day 2
 ![Trello](docs/TB3.png)
