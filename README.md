@@ -40,7 +40,11 @@ This website will be primarily built on the MERN stack:
 
 ## Dataflow Diagram
 
+
+
 ## Application Architecture Diagram
+
+
 
 ## User Stories
 
@@ -81,3 +85,4 @@ This website will be primarily built on the MERN stack:
 
 ![Trello](docs/TB1.png)
 ![Trello](docs/TB2.png)
+![Trello](docs/TB3.png)
