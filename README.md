@@ -1,12 +1,20 @@
-# MorganBatterham_T3A2-A
+# Morgan Batterham T3A2-A
 
 ## Website Description
 
 ### Purpose
 
+This website is used to track workouts. There are currently no good websites for tracking workouts. This website will track progression and improvements, and allow a client's trainer to access the data to see how they are progressing. There is also the option for the website to help plan the rep and weight ranges for future workouts.
+
+For accountability, users will have the option to share their progress and results with their friends, and even create groups and challenges.
+
 ### Functionality/Features
 
 ### Target Audience
+
+The target audience for this website is anyone who has an interest in Health and Fitness. Specifically people interested in weightlifting, as the website is built to track reps and weights.
+
+There will also be the option for trainers to access a client's data, to track their progress and assist in the planning of workouts. 
 
 ### Tech Stack
 
