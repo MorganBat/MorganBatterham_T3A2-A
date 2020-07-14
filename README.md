@@ -6,7 +6,7 @@
 
 This website is used to track and plan workouts fitness enthusiasts. The current options for websites used for tracking workouts are quite lacking in their feature set for the end user and can be cumbersome to use. This website will track progression and improvements with additional easy to use graphical options to observe their progress. There is also the option for the website to automatically plan the rep and weight ranges for future workouts. 
 
-The intent is to make the tedious and burdensome, yet critical, part of fitness easy in order to promote health and well-being. A key motivating factor of working out and continuing to work out is being able to see what you have already accomplished over a period of time since the progress made day-to-day or even week-to-week is sometimes hard to percieve.
+The intent is to make the tedious and burdensome, yet critical, part of fitness easy in order to promote health and well-being. A key motivating factor of working out and continuing to work out is being able to see what you have already accomplished over a period of time since the progress made day-to-day or even week-to-week is sometimes hard to perceive.
 
 Another key factor towards sticking with a workout plan is accountability and the platform will provide a number of methods to keep the user engaged and responsible for their workouts with other users and even their own personal trainers.
 
