@@ -20,6 +20,16 @@ There will also be the option for trainers to access a client's data, to track t
 
 ### Tech Stack
 
+This website will be primarily built on the MERN stack:
+
+- *MongoDB* will be used as the database; for the long term, persistent storage of Data.
+
+- *ExpressJS* will be used as the web server, to receive and process HTTP requests.
+
+- *ReactJS* will be used to build the 'front end' of the website. This is the portion that is loaded into the browser, in order to handle user interaction.
+
+- *NodeJS* is a JavaScript runtime which will be used to run the ExpressJS code.
+
 ## Dataflow Diagram
 
 ## Application Architecture Diagram
