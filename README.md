@@ -47,7 +47,7 @@
 ### My Program
 ![My Program](docs/WF7.png)
 ### Add Workout
-![Add Workour](docs/WF7.png)
+![Add Workout](docs/WF7.png)
 
 ## Trello Board Screenshots
 
