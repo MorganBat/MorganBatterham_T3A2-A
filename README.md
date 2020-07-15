@@ -38,6 +38,24 @@ This website will be primarily built on the MERN stack:
 
 - *NodeJS* is a JavaScript runtime which will be used to run the ExpressJS code.
 
+Hosting will be performed by the following providers:
+
+- *GitHub Pages* will be used to host the front end. As the front end is built on HTML, CSS, JavaScript and ReactJS the integration with GitHub for source control makes it the logical choice.
+
+- *Heroku* will be used to host the back end. As the application requires dynamic responses, GitHub Pages is unusable for this purpose. As such, Heroku will be used to host the API.
+
+- *Amazon Web Services* will be used to host the Database. Heroku offer a MongoDB hosting service, though AWS' offering is far more developed and flexible.
+
+Additional Technologies used:
+
+- *Miro* is used for a kanban board and for drafting the Wire Frames.
+
+- *GitHub* is used for source control.
+
+- *Creately* is used for creating the Data Flow Diagram.
+
+- *Draw.io* is used for creating the Application Architecture Diagram.
+
 ## Dataflow Diagram
 
 ![Data Flow Diagram](docs/Data_Flow_Diagram.png)
@@ -62,7 +80,7 @@ This website will be primarily built on the MERN stack:
 
 - As a user, I want to be able to add a new workout
 
-## Wireframes
+## Wire Frame Diagrams
 
 ### Site Overview
 ![Site Overview](docs/WF1.png)
