@@ -40,7 +40,7 @@ This website will be primarily built on the MERN stack:
 
 ## Dataflow Diagram
 
-
+![Data Flow Diagram](docs/Data_Flow_Diagram.png)
 
 ## Application Architecture Diagram
 
