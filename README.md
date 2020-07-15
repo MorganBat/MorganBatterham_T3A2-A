@@ -44,7 +44,7 @@ This website will be primarily built on the MERN stack:
 
 ## Application Architecture Diagram
 
-
+![Application Architecture Diagram](docs/Application_Architecture_Diagram.png)
 
 ## User Stories
 
