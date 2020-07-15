@@ -109,3 +109,6 @@ Additional Technologies used:
 
 ### End of Day 2
 ![Trello](docs/TB3.png)
+
+### End of Day 3
+![Trello](docs/TB4.png)
