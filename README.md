@@ -48,19 +48,35 @@ This website will be primarily built on the MERN stack:
 
 ## User Stories
 
-- As a user, I want to track my past workouts
+Nichola - 35
 
-- As a user, I want a secure login so no one else can access my data
+Single Police Officer who needs to stay fit and strong for her job. She has constantly struggled with feeling as if she is making progress in her fitness because she does not follow a routine when she works out. 
 
-- As a user, I want the option to track my progress and improvements
+"When I go to the gym I just do exercises I feel like doing that day and I don't feel like I'm getting any better"
 
-- As a user, I want the option to plan my weights and progression
+"I'd like a way to see what I've workouts I've done in the past"
 
-- As a user, I want regular reminders to workout
+Jermaine - 40
 
-- As a user, I want an email reminder if I miss a workout
+An experienced personal trainer who has a wide number of clients that give up shortly after starting their regimen with Jermaine. He attributes this dropout rate to his clients not seeing immediate results in their body despite making a lot of progress.
 
-- As a user, I want to be able to add a new workout
+"If I could show my clients the great work they've done just over the short time they've trained with me I think more clients would stay committed"
+
+Tyreese - 64
+
+An accountant approaching retirement and a grandfather to a some very active grandkids. He wants to stay healthy and fit to keep up with them but loses track whenever he gets the motivation.
+
+"When I have nothing holding me accountable it slips my mind. I don't want to be the grandparent who has to take a break playing but I get too busy or I just forget to workout."
+
+"My buddies go on and on about being in the best shape of their life but I can't keep up. If we could be pushing each other I know I would stick to it."
+
+Kyle - 26
+
+A PhD student who is a regular gym goer. He has tried numerous applications to track and monitor his progress but does not like their feature-sets or ease of use. 
+
+"I've tried all the apps but they're so annoying and unintuitive to use. They lose my progress and I can't plan ahead any of my workouts. I just want something easy to use and edit my past and future sessions"
+
+"I'm not a computer wiz' like you, I just need something that works"
 
 ## Wireframes
 
