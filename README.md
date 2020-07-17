@@ -66,7 +66,7 @@ Additional Technologies used:
 
 ## User Stories
 
-Nichola - 35
+**Nichola - 35**
 
 Single Police Officer who needs to stay fit and strong for her job. She has constantly struggled with feeling as if she is making progress in her fitness because she does not follow a routine when she works out. 
 
@@ -74,13 +74,13 @@ Single Police Officer who needs to stay fit and strong for her job. She has cons
 
 "I'd like a way to see what I've workouts I've done in the past"
 
-Jermaine - 40
+**Jermaine - 40**
 
 An experienced personal trainer who has a wide number of clients that give up shortly after starting their regimen with Jermaine. He attributes this dropout rate to his clients not seeing immediate results in their body despite making a lot of progress.
 
 "If I could show my clients the great work they've done just over the short time they've trained with me I think more clients would stay committed"
 
-Tyreese - 64
+**Tyreese - 64**
 
 An accountant approaching retirement and a grandfather to a some very active grandkids. He wants to stay healthy and fit to keep up with them but loses track whenever he gets the motivation.
 
@@ -88,7 +88,7 @@ An accountant approaching retirement and a grandfather to a some very active gra
 
 "My buddies go on and on about being in the best shape of their life but I can't keep up. If we could be pushing each other I know I would stick to it."
 
-Kyle - 26
+**Kyle - 26**
 
 A PhD student who is a regular gym goer. He has tried numerous applications to track and monitor his progress but does not like their feature-sets or ease of use. 
 
